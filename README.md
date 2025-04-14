@@ -1,16 +1,19 @@
-## Hi there 👋
+# 😄 Hello, my name is **Kevin Matthew Biazon**!
 
-<!--
-**LeKevs/LeKevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an aspiring Game Developer 🎮 and Data Scientist 🧑‍🔬
+I am currently studying in National College of Science and Technology as a Computer Science Student and I have a burning passion on coding and in tech.
 
-Here are some ideas to get you started:
+## ℹ Things about me :
++ 🧑‍🎓 I am currently a student of National College of Science and Technology 
++ 💻 I am currently learning about C#
++ 💡 I know basic programming languages such as: C++, Python, Java, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:
++ LinkedIn: https://www.linkedin.com/in/kevin-matthew-biazon
++ Email: kbdeadxrelixz1216@gmail.com
++ Phone number: (+63) 928 138 3241
++ Telephone number: (046) 884 1632
+
+
+> [!CAUTION]
+> This person is a nerd and a try-hard
