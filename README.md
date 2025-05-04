@@ -10,7 +10,7 @@ I am currently studying in National College of Science and Technology as a Compu
 
 ## How to reach me:
 + LinkedIn: https://www.linkedin.com/in/kevin-matthew-biazon
-+ Email: kbdeadxrelixz1216@gmail.com
++ Email: kbdeadxrelixz1216@gmail.com / kevinmatthewpondabiazon@gmail.com
 + Phone number: (+63) 928 138 3241
 + Telephone number: (046) 884 1632
 
